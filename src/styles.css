@@ -1,0 +1,29 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input {
+  width: 220px;
+  height: 45px;
+  border-radius: 5px;
+  font-size: 25px;
+  padding: 10px;
+  outline: none;
+}
+
+.item {
+  font-size: 22px;
+  margin: 8px 0px;
+}
+
+.data-list {
+  width: 220px;
+  height: 220px;
+  margin: 20px auto;
+  text-align: left;
+  padding: 10px;
+  overflow-y: auto;
+  background-color: lightgrey;
+  padding: 10px;
+}
